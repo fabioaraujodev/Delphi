@@ -1,6 +1,6 @@
-<h1>Delphi Academy Brasil /h1>
+## Delphi 
 
-<h2>Português</h2>
+### Português
 01 - Controle uma Aplicação Windows a partir de uma Aplicação Mobile com AppTethering<br>
 02 - LiveBindings - de Formulários Visuais ao Código<br>
 03 - Integração de Serviços Cloud com REST/JSON<br>
